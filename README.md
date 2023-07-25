@@ -17,3 +17,4 @@
 Spring boot
 1. [Spring Core](https://github.com/vutrieuIT/SpringCore)
 2. [Spring MVC](https://github.com/vutrieuIT/SpringMVC)
+3. [Spring Data JPA](https://github.com/vutrieuIT/SpringDataJPA)
