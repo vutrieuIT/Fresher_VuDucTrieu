@@ -24,3 +24,6 @@ Spring boot
 
 Java excercise
 1. [Java Excercise](https://github.com/vutrieuIT/JavaExercise)
+
+## self study
+1. [Unit Test use Junit, Spring Boot](https://github.com/vutrieuIT/UnitTest)
